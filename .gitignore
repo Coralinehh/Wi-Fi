@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+*.log
+.env
+.venv/
+venv/
+wandb/
+outputs/
+checkpoints/
+dataset/*
+!dataset/README.md
+
