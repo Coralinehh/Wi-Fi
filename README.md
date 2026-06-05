@@ -156,10 +156,13 @@ Checkpoints are written to `checkpoints/`.
 If this repository is useful for your research, please cite:
 
 ```bibtex
-@inproceedings{lu2026swsnet,
+@inproceedings{lu2026spiking,
   title={Spiking-Aided Neural Architecture for Efficient and Robust WiFi Sensing},
   author={Lu, Yisha and Jing, Liwen and Zheng, Jiangmao and Zhang, Bowen},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={29},
+  pages={24106--24114},
   year={2026}
 }
 ```
